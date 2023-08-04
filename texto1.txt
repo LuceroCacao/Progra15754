@@ -1,3 +1,4 @@
 Hola estoy iniciando en git 
 este es una segunda linea 
 esta es la tercera linea 
+colocando emojis a mis commit 
